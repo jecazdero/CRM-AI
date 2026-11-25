@@ -4,6 +4,8 @@ A static CRM AI Bot prototype built as a polished UI demo. This project covers S
 
 **Live portfolio site:** https://6a0b54c8da433ac30c2565d3--rad-beignet-53803c.netlify.app/
 
+![Sugar AI demo: opening the AI Bot and asking for neglected opportunities](AI_elements/sugar-ai-demo.gif)
+
 ## Features
 
 - Fully static HTML/CSS prototype
