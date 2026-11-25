@@ -2,6 +2,8 @@
 
 A static CRM AI Bot prototype built as a polished UI demo. This project covers Sugar AI project from the Loom video (https://www.loom.com/share/6a2be2209a534e36b397872de361a1b2). The project is served from `index.html` and includes visual CRM dashboard components, AI chat widget functionality, and branded sidebar navigation.
 
+**Live portfolio site:** https://6a0b54c8da433ac30c2565d3--rad-beignet-53803c.netlify.app/
+
 ## Features
 
 - Fully static HTML/CSS prototype
